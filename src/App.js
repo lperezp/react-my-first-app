@@ -1,6 +1,9 @@
 import React from 'react';
 import logo from './assets/img/logo.svg';
-import './assets/css/App.css';
+/* import './assets/css/App.css'; */
+// SE ELIMNÓ LOS ESTILOS QUE VIENE POR DEFECTO, SE AGREGÓ BOOTSTRAP.
+import './assets/css/style.scss'
+
 
 // import component
 import MyComponent from './components/MyComponent';
